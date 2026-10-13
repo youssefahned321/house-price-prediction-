@@ -76,6 +76,9 @@ The dataset may include features such as:
 ### Screenshot 4
 ![House Price Prediction 4](Screenshot%202026-09-14%20031958.png)
 
+### Screenshot 5
+![House Price Prediction 4](Screenshot%202026-09-14%20031926.png)
+
 ## 👨‍💻 Author
 
 **Youssef Ahmed Abourehab**
