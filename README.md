@@ -62,7 +62,19 @@ The dataset may include features such as:
 3. Open the Jupyter Notebook.
 4. Run the cells to explore the data, train the model, and evaluate predictions.
 
+## 📸 Project Screenshots
 
+### Screenshot 1
+![House Price Prediction 1](Screenshot%202026-09-14%20031618.png)
+
+### Screenshot 2
+![House Price Prediction 2](Screenshot%202026-09-14%20031644.png)
+
+### Screenshot 3
+![House Price Prediction 3](Screenshot%202026-09-14%20031931.png)
+
+### Screenshot 4
+![House Price Prediction 4](Screenshot%202026-09-14%20031958.png)
 
 ## 👨‍💻 Author
 
