@@ -77,7 +77,7 @@ The dataset may include features such as:
 ![House Price Prediction 4](Screenshot%202026-09-14%20031958.png)
 
 ### Screenshot 5
-![House Price Prediction 4](Screenshot%202026-09-14%20031926.png)
+![House Price Prediction 5](Screenshot%202026-09-14%20031726.png)
 
 ## 👨‍💻 Author
 
